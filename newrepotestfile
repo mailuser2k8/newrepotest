@@ -1,0 +1,99 @@
+
+•	Responsible for monitoring, installation, configuration, administration, troubleshooting and maintenance of technology solutions.
+o	Perform the above mentioned tasks for application servers - Tomcat, JBoss EAP and Web Servers - IBM HTTP Server, Apache HTTP
+o	Perform the above mentioned tasks for technologies  - IBM BPM, IBM WebSphere Portal, BRMS, Red Hat OpenShift, 
+o	Perform similar tasks for the products - CA Secure Proxy Server, Apache Solr, IBM WCM and Drupal 
+•	Provide technical support and troubleshoot problems and perform scripting/programming to ensure stable and efficient operation of technology solutions.
+o	Automate the redundant activities using scripting to ensure that the tasks are completed without any defects.
+o	Provide technical guidance for the issues/problems occurring on the application platform.
+•	Drive and implement automation enhancements and process improvement efforts, are assigned to multiple complex systems/applications.
+o	Automate the administration and maintenance tasks using various scripting languages.
+o	Document the root cause of complex issues, update the knowledge base with the new technical implementations for future reference of the team, 
+o	Analyze the areas of current problems, measure it, define a plan and simplify the process and implement the new change. 
+•	Need to lead initiatives, oversee work results, provide training and serve as a technical resource for other Systems Engineers.  
+o	Lead the technology upgrade & patching projects, coordinate with the stake holders, track and provide proper communication about the progress. 
+o	Work with systems engineers to deliver the projects with zero defects on time.
+o	Provide technical support, trainings and also help the systems engineers for any issues/roadblocks.
+•	Responsible for monitoring, installation, configuration, administration, troubleshooting and maintenance of WebSphere Application Server environment.
+o	Perform the monitoring, installation, configuration, administration, troubleshooting and maintenance for  WebSphere Application Server Network Deployment 6.X/7/8.5 and WebSphere Liberty. 
+•	Manage system/application environment and ongoing operations.
+o	Manage the stability of the environment on a daily basis and make it available for developers, QA testers, UAT testers and Business users.
+o	Resolve the environment issues reported for Unit, Test, Stage and Production environments.
+o	Manage and monitor the JVM/server performance for any variations to maintain high availability to the end users.
+•	Ensure that the technologies are updated with current, stable, and compliant architecture and applications that meet enterprise standards. 
+o	Apply the fix packs, refresh packs and interim fixes to each software to fix the known product issues.
+o	Apply patches and security vulnerability fixes to mitigate the security issues.
+o	Perform upgrade of the software to the latest version to be in support according to the vendor’s support life cycle.
+•	Research, designs, implements and tests of technology solutions.
+o	Complete design, POC and implement new technologies based on the requirements from the end users.
+o	Provide tactical solutions using the technologies for the problems faced by end users for their specific test cases in each iteration.
+o	Implement and customize the open-source products like Apache SOLR to meet the end user search tool requirements. 
+•	Proactively monitors and reports performance utilization of assigned technologies. 
+o	Use the performance management tools - CA APM, TPV, PMI to understand various performance metrics of the application hosted on each environment. Measure performance utilization metrices like heap usage, thread pool, connection pool usage, etc. using these tools.
+o	Use the monitoring tools - Nimsoft, CA UMP to monitor the running processes, filesystem utilization, CPU/Memory% utilization, hung threads occurrence, listener port status, MQ queue depth etc.
+•	Troubleshoots software and/or hardware issues/failures. 
+o	Troubleshoot and resolve the issues reported for WebSphere and other application servers, and for Web Servers, and other technologies for all the environments.
+o	Troubleshoot and support the resolution of issues encountered by applications due to storage failures, network failures, switch failures, server reboots etc. 
+o	Work on sev1, sev2 and sev3 issues based on the priority. Work with product vendors for immediate resolution of escalated issues.
+
+
+
+•	Resolves alerts and performs remediation activities. 
+o	Proactively monitors the threshold alerts for various platform related, and server related parameters. Clears the high and critical alerts by performing the remediation activities within the SLA.
+•	Manage problem or escalated tickets and tasks and out of cycle requests from systems/software owners. 
+o	Work on the service manager requests for the daily operations on non-production environments.
+o	Work on the change requests and sub tasks for production environments. This includes the emergency and expedited requests that are not part of the release cycle.
+o	Work on the incident tickets and problem tickets raised by the customers and resolve them.
+•	Collect and presents data for reporting and planning. 
+o	Gather the server capacity data before the ........
+o	Prepare a report and present this data to the higher management including the director to demonstrate on how the servers can handle the increased traffic during ........
+•	Determine best tactical and/or long-term solution, formulate, implement and maintain solutions. 
+o	Provide technical solution for the Workload Management (WLM) using various topologies at Web Server and Application Server levels.
+o	Provide solution for the load balancing, disaster recovery and clustering of the application infrastructure.
+o	Design and create multiple deployment strategies using Continuous Integration and Continuous Development Pipelines and configuration management tools with remote execution to ensure zero downtime and shortened deployment cycles via automated deployments.
+•	Determine migration and upgrade impacts and diagnose/resolve complex technology/application errors. 
+o	Determine the software upgrade (App Servers, PAAS, Web Server etc.) impacts, develop upgrade strategies and prepare plan to seamlessly execute the upgrade. Resolve any showstopper issues.
+o	Work with vendors for solution on any product issues encountered during upgrade.
+o	Prepare fallback plan to backout incase of any product upgrade failure.
+o	Support the hardware upgrades happening on the infrastructure hosting the applications and database upgrades that the application connects.
+•	Lead workgroups and initiatives with IT and business area partners. 
+o	Partner with the key IT and business stakeholders on the development of security practice for role-based access (using CA SPS) that enhances access control to business applications. Process enforces necessary audits compliance requirements to ensure users are granted right access to right applications at all times.
+o	Partner with key IT stakeholders to scale up the infrastructure hosting the tier-1 applications supporting the ......
+•	Determine best course of action for meeting business needs and provides consultative expertise to customers on how to best use systems/infrastructure capabilities. 
+o	Provide architectural guidance on the implementation of n-tier infrastructure component to meet reusable Service Oriented Architectures (SOA) combining technologies from IBM (WebSphere App Server/Portal Server), IBM HTTP Server, NetScaler.
+o	Provide suggestions to the architectural challenges of decomposing a monolith to an ecosystem of microservices. Provides suggestions on how a microservice can be easily setup and hosted on the PAAS environment compared to legacy systems.
+•	Key participant in capacity planning, design and implementation of technical project management related to systems administration. 
+o	Develop the infrastructure roadmaps for virtual machine (server), CPU/memory, storage and backup. 
+o	Participate in the capacity planning and help to forecasts the infrastructure capacity required to support the .... and ..... programs.
+•	May provide input into infrastructure architecture designs. 
+o	Suggests about the features of WebSphere like dynamic clustering, intelligent management, auto scaling in OpenShift to achieve 100% platform stability and availability.
+•	Drive and implement process and automation improvements.
+o	Suggest the odd/even number nodes design strategy to the developers when selecting the number of nodes required to support their application.
+o	Provide the self-service capabilities to the developers for doing start/stop, deployment activities.
+o	Provide suggestions on J2EE standards, application framework, and WebSphere application best practices to the developers.
+•	Proactively monitors and identifies broader, more complex issues across multiple, integrated, connecting technologies and communicate as appropriate;
+o	Proactively monitor the MQ integration points (for queue depth, MQ connection/communication failures, maximum connection pool values etc.), database integrations (for connection/communication failures, maximum connection pool values etc.), and integration to other distributed transaction systems (like CICS) with the application platform for any abnormalities. 
+o	Monitor the connection issues between application hosting platform to LDAP servers like Active directory, Sun One directory server.
+o	Proactively monitor the web server integration with CA Siteminder and for any session linker issues. 
+o	Use Splunk to create dashboard of all metrices, index all the application and web server logs, send alert emails whenever there are errors logged, take necessary corrective actions and communicate to all stake holders. 
+
+
+
+•	Write programming/scripting. Develops processes and procedures related to systems/application administration. 
+o	Work on creating shell scripts and wsadmin/Jython scripts to automate day to day activities on WebSphere including installing and configuration.
+o	Enforce documented processes and procedures on the WebSphere and other application platform administration activities to provide unique and consistent customer experience. This includes documenting processes on the onboarding of new applications on PAAS and WebSphere platforms. 
+•	May participate in Disaster Recovery planning and exercises.
+o	Design and develop the disaster recovery framework for critical tier 0, tier 1, tier 2 and tier 3 applications/infrastructure. Build high availability architectures including clustering, load balancing, recovery and backup
+o	Participate in disaster recovery planning meeting and test out the disaster recovery procedures as planned.
+•	Contributes input into infrastructure architecture and ensures infrastructure architecture is implemented as intended. 
+o	Provide inputs into the topology planning and design of App Servers, Web Servers and other products required for applications on various operating systems like AIX, Linux, Windows on different environments.
+o	Provide architectural inputs on Work Load Management (WLM) using session management/failover, load balancing and clustering techniques including horizontal and vertical clustering for failover and backup/recovery processes.
+o	Provide input on the advance SSL configurations to tighten the security of the application platforms.
+•	Ensures execution and alignment to architectural standards and blueprints. Assist in training and mentoring staff
+o	Create new WebSphere or PAAS infrastructure for hosting any application type with alignment to all the defined architectural standards.
+o	Provide knowledge transition and training to all new joiners and junior systems engineers on the XXXX activities
+o	Help the team members on resolving any road blocks or critical issues encountered by them.
+•	Performs on-call activities as needed for the environment and technologies.
+o	Work as XXXX on-call person for one week (24 x 7).
+o	Attend all production issues, change requests during on-call.
+o	Attend all the RCA meetings like PEPR meeting. 
